@@ -1,0 +1,55 @@
+html {
+    height: 100%;
+    width: 100%;
+    }
+
+
+
+.logo{
+    position: relative;
+    left: 1%;
+    }
+
+
+.texto1{
+    position: absolute;
+    top: 1%;
+    left: 25%;
+    display: inline;
+    font-size: 120%;
+}
+
+.links{
+    position: absolute;
+    width: 60%;
+    height: 60%;
+    top: 1%;
+    left: 70%;
+    display: inline;
+}
+
+.texto4{
+    position: absolute;
+    top: 30%;
+    left: 58%;
+    display: inline;
+    font-size: 100%;
+  
+}
+
+.texto5{
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    display: inline;
+    font-size: 100%;
+}
+
+
+.links a{
+    text-decoration: none;
+    color: whitesmoke
+}
+
+
+
